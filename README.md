@@ -4,6 +4,7 @@
 **FarihaKha/FarihaKha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on developing machine learning models for neurodegenerative diseases like Parkinson's Disease and Alzheimer's Disease, exploring the fascinating world of computational neuroscience.
 - 🌱 I’m currently learning 
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
     - I got hooked on tech while messing with Inspect Element on random websites
     - I believe debugging = detective work 🕵️‍♂️
--->
