@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced neural networks like ResNet, LSTM, and Bi-GRU, traditional models such as SVM and Naive Bayes, and experimenting with ensemble methods like Random Forests and Gradient Boosting
 - 👯 I’m looking to collaborate on open-source projects in biotech or neuroscience and creative tech initiatives that make a difference in people's lives
 - 🤔 I’m looking for help with advice on breaking into the biotech + software/machine learning engineering field
-- 💬 Ask me about machine learning and brain research
+- 💬 Ask me about crafting efficient algorithms and brain research
 - 📫 How to reach me: farihankha@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun facts:
