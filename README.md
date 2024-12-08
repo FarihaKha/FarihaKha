@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with advice on breaking into the biotech + software/machine learning engineering field
 - 💬 Ask me about web development, crafting efficient algorithms, and brain research
 - 📫 How to reach me: farihankha@gmail.com
+- 💌 Let's connect: https://www.linkedin.com/in/fariha-kha/
 - 😄 Pronouns: she/her
 - ⚡ Fun facts:
     - I got into CS while messing with Inspect Element on random websites
