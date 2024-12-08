@@ -12,7 +12,7 @@ Here are some ideas to get you started:
     - Experimenting with ensemble methods like Random Forests and Gradient Boosting
 - 👯 I’m looking to collaborate on open-source projects in biotech or neuroscience and creative tech initiatives that make a difference in people's lives
 - 🤔 I’m looking for help with advice on breaking into the biotech + software/machine learning engineering field
-- 💬 Ask me about machine learning, brain research, or the best ice cream flavor (it's cookies & cream, obviously)
+- 💬 Ask me about machine learning and brain research
 - 📫 How to reach me: farihankha@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
