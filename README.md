@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun facts:
     - I got into CS while messing with Inspect Element on random websites
     - I believe debugging = detective work 🕵️‍♂️
+- 📂 Michael J. Fox Foundation Machine Learning Challenge Project (Break Through Tech AI Program):
+- Check out my team's project repository for detecting Freezing of Gait (FoG) in Parkinson’s patients using ML that we worked on for the Michael J.Fox Foundation for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Predicting Freezing of Gait in Parkinson's Disease]https://github.com/EmilyCarroll-del/Predicting-Freezing-of-Gait-in-Parkinson-s-Disease-Using-ML
