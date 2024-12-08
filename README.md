@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about machine learning and brain research
 - 📫 How to reach me: farihankha@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
-    - I got hooked on tech while messing with Inspect Element on random websites
+- ⚡ Fun facts:
+    - I got into CS while messing with Inspect Element on random websites
     - I believe debugging = detective work 🕵️‍♂️
